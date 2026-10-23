@@ -14,6 +14,10 @@ A humanitarian platform for reuniting children with their families after an emer
 Incident management for medical equipment across the hospitals of a public health network.
 *PHP · Blade · JavaScript*
 
+**[parking-space-booking-api](https://github.com/cyberjos18/parking-space-booking-api)**
+A REST API for parking space reservations. It started as a technical test in 2022; I went back to it in 2026 to add the domain rules it was missing — a space cannot hold two overlapping reservations — and to rebuild a test suite that only passed on its first run. 45 tests, run twice on every push.
+*Laravel 5.8 · PHP 7.3 · MariaDB · PHPUnit · GitHub Actions*
+
 ### Stack
 
 | | |
