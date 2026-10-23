@@ -25,7 +25,7 @@ Incident management for medical equipment across the hospitals of a public healt
 
 ### Leading teams
 
-Four years of project management alongside the engineering: up to four projects running in parallel, teams of two to six covering development, design and marketing, delivered across Laravel, React, Android, iOS and C#.
+Five years of project management alongside the engineering: up to four projects running in parallel, teams of two to six covering development, design and marketing, delivered across Laravel, React, Android, iOS and C#.
 
 ---
 
